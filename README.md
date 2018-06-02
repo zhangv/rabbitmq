@@ -1,1 +1,3 @@
-# rabbitmq-comsumer
+# rabbitmq
+
+simple rabbitmq handles
